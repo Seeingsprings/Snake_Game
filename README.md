@@ -6,6 +6,17 @@
 原视频链接：
 【194行代码实现贪吃蛇】 https://www.bilibili.com/video/BV14T4y157KM/?p=7&share_source=copy_web&vd_source=0a024899b1c76f634b41d954e59b2ac1
 ```
+# 效果呈现
+<img width="2346" height="1222" alt="image" src="https://github.com/user-attachments/assets/7b93cbc2-ce83-4650-aeb5-4c1534346c50" />
+
+-----------------------------
+
+<img width="2346" height="1152" alt="image" src="https://github.com/user-attachments/assets/efa4f434-e573-446c-a9a9-25626e7bab20" />
+
+
+--------------------
+
+
 
 ## 🎮 游戏介绍
 这是一款经典的贪吃蛇游戏，玩家通过控制蛇的移动方向来吃食物，每吃一个食物蛇身就会增长，同时获得分数。游戏具有简洁的界面和流畅的操作体验。
