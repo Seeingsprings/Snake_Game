@@ -5,6 +5,7 @@
 基于b站up主 编号89757JJ 视频做了一些改善,添加了一些功能
 原视频链接：
 【194行代码实现贪吃蛇】 https://www.bilibili.com/video/BV14T4y157KM/?p=7&share_source=copy_web&vd_source=0a024899b1c76f634b41d954e59b2ac1
+这位up讲的非常仔细，通俗易懂，真的非常感谢。大家不要吝啬自己的三连( • ̀ω•́ )✧
 ```
 # 效果呈现
 <img width="2346" height="1222" alt="image" src="https://github.com/user-attachments/assets/7b93cbc2-ce83-4650-aeb5-4c1534346c50" />
